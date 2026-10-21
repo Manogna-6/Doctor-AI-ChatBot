@@ -1,0 +1,19 @@
+# API keys and environment variables
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter notebook files
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
